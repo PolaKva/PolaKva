@@ -45,6 +45,3 @@
 
 * 📬 **ProtonMail:** [Polakvaa@proton.me](mailto:Polakvaa@proton.me)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MariCampanella/MariCampanella/master/assets/cats.gif" width="150" alt="Cute Cats" />
-</div>
