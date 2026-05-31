@@ -39,16 +39,6 @@
 
 ---
 
-### 📊 Моя GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PolaKva&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PolaKva&theme=rose&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 💌 Давай общаться!
 
 Если хочешь обсудить проект, пошерить мемы или просто поболтать про IT — пиши, я на связи! 💕
